@@ -222,7 +222,7 @@ void print_link(std::string url, std::string txt) {
 }
 
 std::string trim(std::string txt, int maxlen) {
-    if (txt.size()>maxlen) {
+    if ((int)txt.size()>maxlen) {
         return txt.substr(0,maxlen);
     }
     return txt;
@@ -267,7 +267,7 @@ void reload(std::vector<item> &items, Config config) {
     int max_posts = size.ws_row - 2;
     int min_post = std::max(0, (int) items.size() - max_posts);
 
-    for (int i = min_post; i < items.size(); i++) {
+    for (int i = min_post; i < (int)items.size(); i++) {
         print_item(size, i - min_post, items[i],config);
     }
 
