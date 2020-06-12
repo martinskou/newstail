@@ -22,5 +22,5 @@ This is done using the config.json file.
 
 # Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/martinskou/newstail/blob/master/sreenshot/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/martinskou/newstail/master/screenshot/screenshot.png)
 
