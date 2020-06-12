@@ -26,6 +26,9 @@ This is done using the config.json file.
 
 ![Screenshot](https://raw.githubusercontent.com/martinskou/newstail/master/screenshot/screenshot.png)
 
+![Screenshot](https://raw.githubusercontent.com/martinskou/newstail/master/screenshot/screenshot2.png)
+
+
 # Warning
 The code is naive and things will break. But I'll make it better.
 
