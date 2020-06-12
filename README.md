@@ -20,5 +20,7 @@ To build a release version:
 # Configure the feeds
 This is done using the config.json file.
 
+# Screenshot
 
+![Screenshot](https://raw.githubusercontent.com/martinskou/newstail/blob/master/sreenshot/screenshot.png)
 
