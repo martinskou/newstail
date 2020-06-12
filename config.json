@@ -1,0 +1,77 @@
+{
+  "RefreshSecs": 60,
+  "BoldForSecs": 300,
+  "Time": {
+    "Color": [
+      215,
+      153,
+      32
+    ]
+  },
+  "Feeds": [
+    {
+      "Tag": "JP",
+      "Color": [
+        50,
+        250,
+        50
+      ],
+      "URL": "https://jyllands-posten.dk/?service=rssfeed&submode=topnyheder"
+    },
+    {
+      "Tag": "IC",
+      "Color": [
+        250,
+        250,
+        250
+      ],
+      "URL": "https://theintercept.com/feed/?lang=en"
+    },
+    {
+      "Tag": "HN",
+      "Color": [
+        250,
+        150,
+        0
+      ],
+      "URL": "https://news.ycombinator.com/rss"
+    },
+    {
+      "Tag": "/.",
+      "Color": [
+        0,
+        200,
+        0
+      ],
+      "URL": "http://rss.slashdot.org/Slashdot/slashdotMain"
+    },
+    {
+      "Tag": "SP",
+      "Color": [
+        150,
+        150,
+        150
+      ],
+      "URL": "https://www.space.com/feeds/all"
+    },
+    {
+      "Tag": "TG",
+      "Color": [
+        250,
+        250,
+        50
+      ],
+      "URL": "https://www.theguardian.com/world/rss"
+    },
+    {
+      "Tag": "TV",
+      "Color": [
+        180,
+        20,
+        100
+      ],
+      "URL": "https://www.theverge.com/rss/front-page/index.xml"
+    }
+  ]
+}
+
